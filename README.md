@@ -427,21 +427,6 @@ Implementing autonomous agents for complex query resolution:
 
 ---
 
-## Contributing
-
-Contributions are welcome for all phases of development. Please see CONTRIBUTING.md for guidelines.
-
-### Development Areas
-
-- Phase 1 optimization and performance improvements
-- Vision-Language Model integration research
-- Agentic reasoning algorithm development
-- Privacy and security mechanisms
-- Enterprise deployment infrastructure
-- Documentation and examples
-
----
-
 ## Technical Notes for Phase 2 Transition
 
 Preparation for multimodal integration:

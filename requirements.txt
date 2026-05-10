@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-community
+langchain-ollama
+langchain-text-splitters
+faiss-cpu
+pydantic
+httpx
+tavily-python
+pypdf
